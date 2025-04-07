@@ -61,7 +61,9 @@
     "sonner": "^2.0.3",
     "vaul": "^1.1.2",
     "zod": "^3.24.2",
-    "@clerk/clerk-react": "latest"
+    "@clerk/clerk-react": "latest",
+    "react-router-dom": "latest",
+    "@types/react-router-dom": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
